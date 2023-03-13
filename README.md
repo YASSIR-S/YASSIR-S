@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **yassir4salhi@gmail.com**
 
+<img align="right" alt="CodingImage" width="200" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/1-Developer.gif"/>
+
 ## My Skill Set  
 
 <div align="center">  
