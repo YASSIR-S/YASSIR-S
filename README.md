@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%2315b0cf&lines=Hey+there!+I'm+YASSIR-SALHI)](https://git.io/typing-svg)#I'm a it and network student at ENSAO.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%2315b0cf&lines=Hey+there!+I'm+YASSIR-SALHI)](https://git.io/typing-svg)
 
+#I'm an IT and network student at ENSAO.
 #Currently working on a machine learning project and an E-commerce website project.
 
 #Looking for a summer internship.
