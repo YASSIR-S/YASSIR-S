@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%2315b0cf&lines=Hey+there!+I'm+YASSIR-SALHI)](https://git.io/typing-svg)
 <img align="right" alt="CodingImage" width="200" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/1-Developer.gif"/>
-<h3>A passionate software engineering student from Morocco</h3>
+<h3>A passionate IT engineering student from Morocco</h3>
 
 - 🔭 I’m currently working on my engineering degree  
 
