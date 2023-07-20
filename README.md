@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently looking for an internship  
 
-- 📫 How to reach me **yassir4salhi@gmail.com**
+- 📫 How to reach me **yassir8salhi@gmail.com**
 
 
 ## My Skill Set  
